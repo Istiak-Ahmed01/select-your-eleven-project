@@ -1,0 +1,122 @@
+[
+  {
+    "playerImage": "https://i.ibb.co.com/vxQt72GY/sakibalhasanjpg.jpg",
+    "playerName": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playingRole": "All-rounder",
+    "rating": 95,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Slow Left-arm Orthodox",
+    "price": 1200000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/wNKKHDQF/images.jpg",
+    "playerName": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "playingRole": "Batsman",
+    "rating": 88,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": 900000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/Hph5B0tj/download.jpg",
+    "playerName": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "playingRole": "Bowler",
+    "rating": 89,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Left-arm Fast-medium",
+    "price": 1000000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/LDDVnmyR/images-1.jpg",
+    "playerName": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "playingRole": "All-rounder",
+    "rating": 85,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": 800000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/GvS9L4w3/download-1.jpg",
+    "playerName": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "playingRole": "Wicketkeeper Batsman",
+    "rating": 90,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "N/A",
+    "price": 950000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/LXnv9nJ4/download-2.jpg",
+    "playerName": "Afif Hossain",
+    "country": "Bangladesh",
+    "playingRole": "All-rounder",
+    "rating": 80,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": 600000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/DHfMfhBv/download-3.jpg",
+    "playerName": "Mahedi Hasan",
+    "country": "Bangladesh",
+    "playingRole": "All-rounder",
+    "rating": 78,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": 550000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/3Y0P3FQB/download-4.jpg",
+    "playerName": "Liton Das",
+    "country": "Bangladesh",
+    "playingRole": "Wicketkeeper Batsman",
+    "rating": 86,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "N/A",
+    "price": 750000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/JWtJsG3B/download-5.jpg",
+    "playerName": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "playingRole": "Bowler",
+    "rating": 84,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": 700000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/NgcFDVN8/download-6.jpg",
+    "playerName": "Andre Russell",
+    "country": "West Indies",
+    "playingRole": "All-rounder",
+    "rating": 94,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast-medium",
+    "price": 1500000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/DPmTGKHG/download-7.jpg",
+    "playerName": "Rahmanullah Gurbaz",
+    "country": "Afghanistan",
+    "playingRole": "Wicketkeeper Batsman",
+    "rating": 87,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "N/A",
+    "price": 850000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/1YWGxjG3/download-8.jpg",
+    "playerName": "Imran Tahir",
+    "country": "South Africa",
+    "playingRole": "Bowler",
+    "rating": 88,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "price": 800000
+  }
+]
